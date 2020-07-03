@@ -22,7 +22,7 @@ const validationDictionary = {
 }
 
 export function Validate(fieldName, value) {
-  // Validate.js validates your values as an object
+  // Validate.js validates your values as an objecttest
   // e.g. var form = {email: 'email@example.com'}
   // Line 8-9 creates an object based on the field name and field value
   var formValues = {}
