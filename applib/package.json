@@ -1,0 +1,23 @@
+{
+  "name": "react-native-smp-applib",
+  "version": "1.0.0",
+  "description": "javascript common functions without any UI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "suresh patel",
+  "license": "ISC",
+  "peerDependencies": {
+    "react": ">= 15.x",
+    "react-native": ">= 0.47.x"
+  },
+  "devDependencies": {
+    "babel-plugin-module-resolver": "^4.0.0",
+    "babel-preset-react-native": "^4.0.1",
+    "metro-react-native-babel-preset": "^0.59.0"
+  },
+  "dependencies": {
+    "validate.js": "^0.13.1"
+  }
+}
